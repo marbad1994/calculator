@@ -1,9 +1,10 @@
 public class Calculator {
     public static void main(String[] args ) {
-        boolean isRunning = false;
-        while (isRunning) {
+        boolean isRunning = true;
 
+        while (isRunning) {
         }
+
     }
 
     public static double addition(double x, double y) {
